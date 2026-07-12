@@ -5,7 +5,7 @@
    ========================================================= */
 
 // Base URL of our FastAPI backend. Change this if you host the backend elsewhere.
-const API_BASE_URL = "http://127.0.0.1:8000";
+const API_BASE_URL = "https://applytrack-ipeq.onrender.com";
 
 // ---------------------------------------------------------------------------
 // DOM Element References
