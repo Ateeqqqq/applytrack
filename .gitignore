@@ -2,10 +2,8 @@
 __pycache__/
 *.pyc
 venv/
-env/
-
-# Database
-backend/applytrack.db
+.venv/
+*.db
 
 # Editor / OS
 .vscode/
